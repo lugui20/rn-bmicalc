@@ -1,8 +1,8 @@
 import { useEffect, useState} from 'react';
-import { Text, View, SafeAreaView, StatusBar, StyleSheet, TextInput,
+import { Text, View, SafeAreaView, TextInput,
   TouchableOpacity} from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
-import styles from "style";
+import styles from "./style";
 
 const BMICalc = () => {
 
