@@ -1,0 +1,8 @@
+
+This code was made as part of the introductory course on mobile development
+offered by Instituto Federal de Minas Gerais (IFMG).
+
+Link to the course (Language Portuguese)
+https://mais.ifmg.edu.br/maisifmg/enrol/index.php?id=137
+
+Substantial parts of this software were presented by the instructor during the course.

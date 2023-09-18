@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "calcIMC",
-    "slug": "calcIMC",
+    "name": "BMICalc",
+    "slug": "rn-bmicalc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
